@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');?>
 
-<body bgcolor="#ff3366">
+<body bgcolor="#ccffcc">
 
 <!-- Links (sit on top) -->
 <div class="w3-top">
