@@ -22,7 +22,7 @@ class Main extends CI_Controller {
 
  $data['title']="nutriden";
 		$this->load->view('partials/header.php',$data);
-		$this->load->model('Contacts_model');
+		//$this->load->model('Contacts_model');
 		
 	//$data2['contacts']=$this->Contacts_model->get_all_contacts();
 
