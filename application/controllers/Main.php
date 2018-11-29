@@ -24,18 +24,18 @@ class Main extends CI_Controller {
 		$this->load->view('partials/header.php',$data);
 		$this->load->model('Contacts_model');
 		
-	$data2['contacts']=$this->Contacts_model->get_all_contacts();
+	//$data2['contacts']=$this->Contacts_model->get_all_contacts();
 
-		$this->load->view('welcome_message',$data2);
+		$this->load->view('welcome_message');
 $this->load->view('partials/footer.php');
 	
 	 }
 
 public function handleform(){
 
-$name=$this->input->post("Name");
-$this->load->model('Contacts_model');
-$this->Contacts_model->addcontact($name);
+//$name=$this->input->post("Name");
+//$this->load->model('Contacts_model');
+//$this->Contacts_model->addcontact($name);
 }
 }
 
