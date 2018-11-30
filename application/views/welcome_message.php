@@ -32,19 +32,19 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
   <!-- Slideshow -->
   <div class="w3-container">
     <div class="w3-display-container mySlides">
-     <img src="<?php echo base_url();?>assets/images/pik1.jpg"  alt="you"style="width:100%">
+     <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik1.jpg"  alt="you"style="width:100%">
       <div class="w3-display-topleft w3-container w3-padding-32">
         <span class="w3-white w3-padding-large w3-animate-bottom">FOODS</span>
       </div>
     </div>
     <div class="w3-display-container mySlides">
-      <img src="<?php echo base_url();?>assets/images/pik2.jpg"  alt="you"style="width:100%">
+      <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik2.jpg"  alt="you"style="width:100%">
       <div class="w3-display-middle w3-container w3-padding-32">
         <span class="w3-white w3-padding-large w3-animate-bottom">Health</span>
       </div>
     </div>
     <div class="w3-display-container mySlides">
-      <img src="<?php echo base_url();?>assets/images/pik3.jpg"  alt="you"style="width:100%">
+    <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik3.jpg"  alt="you"style="width:100%"> 
       <div class="w3-display-topright w3-container w3-padding-32">
         <span class="w3-white w3-padding-large w3-animate-bottom">EXERRCISE</span>
       </div>
@@ -121,7 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
         <li class="w3-padding-16"><b>workout</b> Doctor</li>
         <li class="w3-padding-16"><b>workouts</b> Doctor</li>
         <li class="w3-padding-16">
-          <h2 class="w3-wide">$ 25</h2>
+          <h2 class="w3-wide">50sh</h2>
           <span class="w3-opacity">per month</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
@@ -156,7 +156,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 
     <div class="w3-third w3-margin-bottom">
       <div class="w3-card-4">
-        <img src="<?php echo base_url();?>assets/images/pik7.jpg"  alt="you"style="width:100%">
+        <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik7.jpg"  alt="you"style="width:100%">
         <div class="w3-container">
           <h3>Davies</h3>
           <p class="w3-opacity">brother</p>
@@ -168,7 +168,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 
     <div class="w3-third w3-margin-bottom">
       <div class="w3-card-4">
-        <img src="<?php echo base_url();?>assets/images/pik4.jpg"  alt="you"style="width:100%">
+        <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik4.jpg"  alt="you"style="width:100%">
         <div class="w3-container">
           <h3>Denis</h3>
           <p class="w3-opacity">BRO</p>
@@ -180,7 +180,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');?>
 
     <div class="w3-third w3-margin-bottom">
       <div class="w3-card-4">
-        <img src="<?php echo base_url();?>assets/images/pik6.jpg"  alt="you"style="width:100%">
+        <img src="https://stormy-ocean-13205.herokuapp.com/assets/images/pik6.jpg"  alt="you"style="width:100%">
         <div class="w3-container">
           <h3>Maxi</h3>
           <p class="w3-opacity">BRO</p>
